@@ -1,0 +1,32 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Inventory App</string>
+    <string name="action_delete">Delete all products</string>
+    <string name="empty_product_list">No products available.</string>
+    <string name="empty_product_list_step">To add a new product, press the floating buttom.</string>
+    <string name="sale">Sale</string>
+    <string name="action_save">Save</string>
+    <string name="editor_insert_product_successful">Product saved</string>
+    <string name="editor_insert_product_failed">Error with saving product</string>
+    <string name="discard">Discard</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="bt_photo">pick a photo</string>
+    <string name="tv_name">Name</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_stock">Stock</string>
+    <string name="tv_price">Price</string>
+    <string name="cv_description">Lorem impsu.</string>
+    <string name="delete_all_successful">Rows deleted</string>
+    <string name="delete_product_successful">Product deleted</string>
+    <string name="delete_product_failed">Error with deleting product</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog_msg">Delete this product?</string>
+    <string name="delete_dialog_all_msg">Delete all product?</string>
+    <string name="insert_image">Add Photo!</string>
+    <string name="field_required">Fields are required!</string>
+    <string name="perm_necessary">Permission necessary</string>
+    <string name="ext_storage">External storage permission is necessary</string>
+    <string name="order">Make an order now!</string>
+    <string name="order_summary_email_subject">Order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
+</resources>
